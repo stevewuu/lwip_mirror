@@ -148,7 +148,7 @@ a lot of data that needs to be copied, this should be set high. */
 /*! @brief ARP options */
 #define LWIP_ARP                      1                           /* 1: Enable ARP, 0: Disable ARP */
 #define ARP_TABLE_SIZE                10                          /* ARP Table size */
-#define ARP_QUEUEING                  0                           /* ARP Queueing */
+#define ARP_QUEUEING                  1                           /* ARP Queueing */
 
 /****************************************************************************
  * IP Network Layer

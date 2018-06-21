@@ -7,7 +7,7 @@
 **     Version     : Component SDK_MPC574x_04, Driver 01.00, CPU db: 3.00.000
 **     Repository  : SDK_MPC574x_04
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2018-06-20, 18:06, # CodeGen: 0
+**     Date/Time   : 2018-06-21, 17:06, # CodeGen: 4
 **     Contents    :
 **         CLOCK_SYS_Init                    - status_t CLOCK_SYS_Init(clock_manager_user_config_t const **...
 **         CLOCK_SYS_UpdateConfiguration     - status_t CLOCK_SYS_UpdateConfiguration(uint8_t...

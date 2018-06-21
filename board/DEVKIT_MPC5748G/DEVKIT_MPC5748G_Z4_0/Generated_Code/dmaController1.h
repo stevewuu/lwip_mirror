@@ -7,7 +7,7 @@
 **     Version     : Component SDK_MPC574x_04, Driver 01.00, CPU db: 3.00.000
 **     Repository  : SDK_MPC574x_04
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2018-06-20, 18:06, # CodeGen: 0
+**     Date/Time   : 2018-06-21, 17:06, # CodeGen: 4
 **     Contents    :
 **         EDMA_DRV_Init                              - status_t EDMA_DRV_Init(edma_state_t *edmaState, const edma_user_config_t...
 **         EDMA_DRV_Deinit                            - status_t EDMA_DRV_Deinit(void);

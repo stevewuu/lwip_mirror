@@ -66,7 +66,7 @@ int main(void)
 
   /* Write your code here */
   /* For example: for(;;) { } */
-  //app_main();
+  app_main();
   /* Initialize and configure clocks
    *  -   Setup system clocks, dividers
    *  -   Configure FlexCAN clock, GPIO, LPSPI
@@ -85,7 +85,7 @@ int main(void)
   ENET_DRV_Init(INST_ETHERNET1, &ethernet1_State, &ethernet1_InitConfig0, ethernet1_buffConfigArr0, ethernet1_MacAddr);
 
 
-
+  //app_main();
   /*** Don't write any code pass this line, or it will be deleted during code generation. ***/
   /*** RTOS startup code. Macro PEX_RTOS_START is defined by the RTOS component. DON'T MODIFY THIS CODE!!! ***/
   #ifdef PEX_RTOS_START

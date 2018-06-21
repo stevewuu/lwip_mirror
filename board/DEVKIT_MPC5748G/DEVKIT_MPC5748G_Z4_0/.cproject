@@ -100,11 +100,11 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${VLE_EWL_DIR}/EWL_C/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${VLE_EWL_DIR}/EWL_C/include/pa&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/middleware/tcpip/lwip/src/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../../../../src/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/middleware/tcpip/tcpip_stack&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/middleware/tcpip/tcpip_stack/ports/netif/enetif&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/middleware/tcpip/tcpip_stack/ports/OS&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/middleware/tcpip/tcpip_stack/ports/platform/MPC5748G/make/gcc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources/ports/netif/enetif&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources/ports/OS&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources/arch&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/rtos/FreeRTOS_C55/Source&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/rtos/FreeRTOS_C55/Source/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/rtos/FreeRTOS_C55/Source/portable/GCC/PowerPC_Z4&quot;"/>
@@ -299,9 +299,9 @@
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Generated_Code"/>
 						<entry excluding="Linker_Files|Debugger/Gateway_EVB_V090_Z4_0_Debug_RAM.launch|Debugger/Gateway_EVB_V090_LaunchGroup_RAM.launch" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Project_Settings"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SDK"/>
-						<entry excluding="case_test.c|gw_enet.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Sources"/>
+						<entry excluding="ports/platform/MPC5748G/make/gcc/arch|case_test.c|gw_enet.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Sources"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="include"/>
-						<entry excluding="src/apps/netbiosns|src/apps/sntp|src/apps/httpd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="lwip"/>
+						<entry excluding="src/apps/sntp|src/apps/netbiosns|src/apps/httpd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="lwip_src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -604,9 +604,9 @@
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Generated_Code"/>
 						<entry excluding="Linker_Files|Debugger/Gateway_EVB_V090_Z4_0_Debug_RAM.launch|Debugger/Gateway_EVB_V090_LaunchGroup_RAM.launch" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Project_Settings"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SDK"/>
-						<entry excluding="case_test.c|gw_enet.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Sources"/>
+						<entry excluding="ports/platform/MPC5748G/make/gcc/arch|case_test.c|gw_enet.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Sources"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="include"/>
-						<entry excluding="src/apps/netbiosns|src/apps/sntp|src/apps/httpd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="lwip"/>
+						<entry excluding="src/apps/sntp|src/apps/netbiosns|src/apps/httpd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="lwip_src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -908,9 +908,9 @@
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Generated_Code"/>
 						<entry excluding="Linker_Files|Debugger/Gateway_EVB_V090_Z4_0_Debug.launch|Debugger/Gateway_EVB_V090_LaunchGroup.launch" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Project_Settings"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SDK"/>
-						<entry excluding="case_test.c|gw_enet.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Sources"/>
+						<entry excluding="ports/platform/MPC5748G/make/gcc/arch|case_test.c|gw_enet.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Sources"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="include"/>
-						<entry excluding="src/apps/netbiosns|src/apps/sntp|src/apps/httpd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="lwip"/>
+						<entry excluding="src/apps/sntp|src/apps/netbiosns|src/apps/httpd" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="lwip_src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

@@ -7,7 +7,7 @@
 **     Version     : Component SDK_MPC574x_04, Driver 01.00, CPU db: 3.00.000
 **     Repository  : SDK_MPC574x_04
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2018-06-20, 18:10, # CodeGen: 1
+**     Date/Time   : 2018-06-21, 17:06, # CodeGen: 4
 **     Contents    :
 **         ENET_DRV_GetDefaultConfig             - void ENET_DRV_GetDefaultConfig(enet_config_t * config);
 **         ENET_DRV_Init                         - void ENET_DRV_Init(uint8_t instance,enet_state_t * state,const enet_config_t...

@@ -7,7 +7,7 @@
 **     Version     : Component SDK_MPC574x_04, Driver 01.00, CPU db: 3.00.000
 **     Repository  : SDK_MPC574x_04
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2018-06-20, 18:06, # CodeGen: 0
+**     Date/Time   : 2018-06-21, 17:06, # CodeGen: 4
 **     Contents    :
 **         FLEXCAN_DRV_SetBitrate             - void FLEXCAN_DRV_SetBitrate(uint8_t instance,const flexcan_time_segment_t *...
 **         FLEXCAN_DRV_GetBitrate             - void FLEXCAN_DRV_GetBitrate(uint8_t instance,flexcan_time_segment_t * bitrate);

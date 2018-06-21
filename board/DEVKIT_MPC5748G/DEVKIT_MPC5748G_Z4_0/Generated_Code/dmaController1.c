@@ -7,7 +7,7 @@
 **     Version     : Component SDK_MPC574x_04, Driver 01.00, CPU db: 3.00.000
 **     Repository  : SDK_MPC574x_04
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2018-06-20, 18:06, # CodeGen: 0
+**     Date/Time   : 2018-06-21, 17:06, # CodeGen: 4
 **
 **     Copyright 1997 - 2015 Freescale Semiconductor, Inc.
 **     Copyright 2016-2017 NXP
