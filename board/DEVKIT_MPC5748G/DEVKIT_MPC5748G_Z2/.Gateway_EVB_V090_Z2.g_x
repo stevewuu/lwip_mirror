@@ -1,0 +1,60 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="6">
+        <Line>"${ProjDirPath}/SDK/platform/drivers/src/clock/MPC57xx"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/common"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MPC5748G/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MPC5748G/startup"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_MPC5748G_324"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255611" FileType="1048576" CompNumb="3" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255681" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/pins/pins_gpio_hw_access.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255563" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255631" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255596" FileType="1048576" CompNumb="3" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255677" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/clock_manager.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255592" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255634" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgm_hw_access.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255602" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgmcs_hw_access.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255599" FileType="1048576" CompNumb="3" />
+      <File Name="Documentation/Gateway_EVB_V090_Z2.txt" FileDate="2018-05-21, 10:37:35" FileAge="1526870255707" FileType="3072" />
+      <File Name="SDK/platform/devices/MPC5748G/startup/system_MPC5748G.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255640" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/MPC5748G/startup/system_MPC5748G.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255642" FileType="1048576" CompNumb="1" />
+      <File Name="Sources/main.c" FileDate="2018-05-21, 10:35:05" FileAge="1526870105003" FileType="128" />
+      <File Name="SDK/platform/drivers/src/pins/pins_driver.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255560" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/mc_me_hw_access.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255609" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255615" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/common/s32_core_e200.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255628" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255687" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255674" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255620" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/devices/MPC5748G/include/MPC5748G.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255668" FileType="1048576" CompNumb="1" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255684" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255671" FileType="45637" CompNumb="1" />
+      <File Name="Documentation/Gateway_EVB_V090_Z2_Settings.xml" FileDate="2018-05-21, 10:37:35" FileAge="1526870255700" FileType="3072" />
+      <File Name="SDK/platform/drivers/src/pins/pins_siul2_hw_access.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255577" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255581" FileType="1048576" CompNumb="4" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255618" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255568" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255623" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255586" FileType="1048576" CompNumb="4" />
+      <File Name="SDK/platform/devices/MPC5748G/include/MPC5748G_features.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255662" FileType="1048576" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/pins/pins_siul2_hw_access.c" FileDate="2018-05-21, 10:37:35" FileAge="1526870255571" FileType="1048576" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.h" FileDate="2018-05-21, 10:37:35" FileAge="1526870255606" FileType="1048576" CompNumb="3" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>3</CodeGenReference>
+</CodeGenerationInfo>
